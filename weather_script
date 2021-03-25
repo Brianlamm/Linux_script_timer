@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl wttr.in > weather_info 2>&1
